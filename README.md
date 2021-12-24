@@ -2,6 +2,8 @@
 
 For both tasks the datasets shared on moodle have to be downloaded.
  http://shorturl.at/hquDP and the testing dataset provided)
+ 
+Both codes run on Jupyter Notebook and all sections have to be ran to obtain final results.
 
 To be able to run the code for both tasks, xls files have to be converted into csv files. 
 
@@ -31,6 +33,19 @@ os
 cv2
 sklearn 
 imutils
+
+Task B - Tumour classifcation using CNN
+Packages that have to be installed:
+Packages that have to be installed:
+pandas as pd
+numpy as np
+matplotlib.pyplot as plt
+os
+cv2
+sklearn 
+imutils
+tensorflow
+keras
 
 
 
