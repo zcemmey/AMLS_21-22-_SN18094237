@@ -25,6 +25,9 @@ have to be replaced by the copied path the downloaded datasets have in the user'
 
 
 Task A - MRI Classification using SVM 
+
+The file "Task A with testing, Final Version" has to be ran to obtain results. 
+
 Packages that have to be installed:
 pandas as pd
 numpy as np
@@ -35,7 +38,9 @@ sklearn
 imutils
 
 Task B - Tumour classifcation using CNN
-Packages that have to be installed:
+
+The file "Task B with testing, Final Version" has to be ran to obtain results. 
+
 Packages that have to be installed:
 pandas as pd
 numpy as np
