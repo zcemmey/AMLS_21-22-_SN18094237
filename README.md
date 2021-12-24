@@ -2,7 +2,7 @@
 
 For both tasks the datasets shared on moodle have to be downloaded.
 
-Only "Task A with testing, Final Version", "Task B with testing, Final Version" have to run to obtain results in the report. The rest of the files are upload the gradual progress of the final codes. 
+Only "Task A with testing, Final Version", "Task B with testing, Final Version" have to run to obtain results in the report. The rest of the files are uploaded to record the gradual progress of the final codes. 
 
  http://shorturl.at/hquDP and the testing dataset provided)
  
